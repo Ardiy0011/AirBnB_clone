@@ -50,12 +50,25 @@ button{
     border-right: 1px;
   }
   
-  h3 {
+  .locations h3 {
     font-weight: 600;
     margin-left: 40px;
     margin-bottom: 0px;
   }
-  h4 {
+    .locations  h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 3px;
+  }
+  
+
+  .amenities h3 {
+    font-weight: 600;
+    margin-left: 40px;
+    margin-bottom: 0px;
+  }
+    .amenities  h4 {
     font-weight: 400;
     font-size: 14px;
     margin-left: 40px;

@@ -50,18 +50,30 @@ button{
     z-index: 1;
   }
   
-  h3 {
+  .locations h3 {
     font-weight: 600;
     margin-left: 40px;
     margin-bottom: 0px;
   }
-  h4 {
+    .locations  h4 {
     font-weight: 400;
     font-size: 14px;
     margin-left: 40px;
     margin-top: 3px;
   }
+  
 
+  .amenities h3 {
+    font-weight: 600;
+    margin-left: 40px;
+    margin-bottom: 0px;
+  }
+    .amenities  h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 3px;
+  }
   .popover{
     display: none;
     background-color:  #FAFAFA;
@@ -76,7 +88,7 @@ button{
     border-bottom: none;
 
   }
-  .popover li h2{
+  .popover h2{
     font-size: 16px;
     margin: 0;
   }
